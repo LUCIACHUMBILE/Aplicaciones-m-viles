@@ -1,5 +1,7 @@
 # Aplicaciones-m-viles
 
+🚨 **archivo principal: d.ipynb** 🚨
+
 # Índice del Proyecto
 
 | Sección                       | Descripción                                                       |
@@ -15,17 +17,17 @@ En el presente proyecto se realizará un análisis de los datos recopilados de l
 
 Se realizará en el análisis exploratorio de datos, segmentación de usuarios y prueba de hipótesis para encontrar diferencias de conversión entre usuarios que descargaron la aplicación mediante google y quienes lo hicieron mediante bing.
 
-#Insights
+# Insights
 
 ![image](https://github.com/user-attachments/assets/fd37b56a-5aef-4d40-a5b3-ffb90b94ba1c)
 
-#Distribución por tipo de evento
+## Distribución por tipo de evento
 
 ![image](https://github.com/user-attachments/assets/c1498d1c-4241-437e-8c85-ed3452b4df1e)
 
-# Usuarios según fuente 
+## Usuarios según fuente 
 ![image](https://github.com/user-attachments/assets/7221a391-e7d8-4d9d-9f9b-8b86b12bb4cc)
-# Distribución por tipo de evento  
+## Distribución por tipo de evento  
 ![image](https://github.com/user-attachments/assets/32580fc6-29b5-4c09-87ba-a2298cf3eb97)
 
 
